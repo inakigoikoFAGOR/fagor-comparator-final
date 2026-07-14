@@ -2,7 +2,7 @@
 
 Calculadora de comparación de máquinas de lavado Fagor (WRC/WRA y CCO) frente a modelos de la competencia. Calcula coste operativo, ahorro, TCO (coste total de propiedad) y ROI, y genera un informe descargable en PDF.
 
-Sitio en producción: _(https://inakigoikofagor.github.io/fagor-comparator-final/fagor_calculadora.html)_
+Sitio en producción: _(https://fagor-professional.github.io/fagor-comparator-final/fagor_calculadora.html)_
 
 ## Archivos del proyecto
 
@@ -32,7 +32,7 @@ Todo vive en la raíz del repositorio — **no en subcarpetas** — porque `fago
 
 1. Sube estos 6 archivos a la raíz del repo (rama `main`).
 2. Settings → Pages → Source: **"Deploy from a branch"** → Branch `main` → carpeta **`/ (root)`**.
-3. La URL será `https://inakigoikofagor.github.io/fagor-comparator-final/fagor_calculadora.html`.
+3. La URL será `https://fagor-professional.github.io/fagor-comparator-final/fagor_calculadora.html`.
 
 ## Lógica de moneda (resumen)
 
